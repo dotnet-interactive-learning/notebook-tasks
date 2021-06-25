@@ -19,6 +19,10 @@ To use .NET Interactive Notebooks, do the following
 
 3. In Visual Studio Code, install the .NET Interactive Notebooks extension. See image below.
 
+    3.1 Press `Ctrl+Shift+X` or `Cmd+Shift+X` to show the extensions left panel.
+
+    3.2 Search for the `.NET Interactive Notebooks` extension and install
+
 ![Installing .Net Interactive Notebooks extension](../res/installingextension.PNG)
 
 ---
