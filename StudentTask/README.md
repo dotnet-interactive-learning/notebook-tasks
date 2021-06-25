@@ -33,7 +33,7 @@ After completing the above prerequisties, let's get the notebook.
 
 1. Copy the following link and paste it into a new browser tab. This link will open Visual Studio Code with the notebook. 
 
-> vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/StudentTask/csharpGuide.dib
+> `vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/StudentTask/csharpGuide.dib`
 
 
 > Note: Visual Studio Code might ask you "Allow an extension to open this URI?" Click "Open."
