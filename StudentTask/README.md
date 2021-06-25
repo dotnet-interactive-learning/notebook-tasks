@@ -29,7 +29,11 @@ After completing the above prerequisties, let's get the notebook.
 
 1. Click <a href="vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/StudentTask/csharpGuide.dib">here</a>. This link will open Visual Studio Code. 
 
+<<<<<<< HEAD
 > Visual Studio Code might ask you "Allow an extension to open this URI?" Click "Open."
+=======
+3. Navigate to and open the `csharpGuide.dib` you have downloaded. 
+>>>>>>> 8b6fca80355265ea7a8ad9faaa443e2988758f59
 
 > Note that opening your first notebook on this machine might take a couple of minutes.
 
