@@ -31,7 +31,7 @@ To use .NET Interactive Notebooks, do the following
 
 After completing the above prerequisties, let's get the notebook.
 
-1. Click <a href="vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/EducatorTask2/showcaseNotebook.ipynb">here</a>. This link will open Visual Studio Code. 
+1. Click [here](vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/EducatorTask2/showcaseNotebook.ipynb). This link will open Visual Studio Code. 
 
 > Visual Studio Code might ask you "Allow an extension to open this URI?" Click "Open."
 
