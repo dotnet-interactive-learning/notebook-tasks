@@ -33,7 +33,7 @@ After completing the above prerequisties, let's open the notebook we downloaded.
 
 2. Begin typing to find the `.NET Interactive: Open notebook` command. Press `Enter` to execute it.
 
-3. Navigate to and open the `csharpGuide.dib` you have downloaded. 
+3. Navigate to and open the [csharpGuide.dib](csharpGuide.dib) you have downloaded. 
 
 > Note that opening your first notebook on this machine might take a couple of minutes.
 
