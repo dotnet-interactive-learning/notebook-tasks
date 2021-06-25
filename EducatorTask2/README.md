@@ -1,10 +1,10 @@
-# .NET Interactive Notebooks for Education UX Study (Student)
+# .NET Interactive Notebooks for Education UX Study (Educator)
 **Objective:** In this study, you will explore the functionality of **.NET Interactive Notebooks** for use in an educational setting. 
 
 **Task**: 
 
 1. You will answer a set of questions that lets us know more about you. 
-2. By following the steps below, you will walk through an interactive notebook designed to introduce you to the C\# programming language.
+2. By following the steps below, you will walk through an interactive notebook designed to introduce you to features of .NET Interactive Notebooks.
 3. You will answer a set of questions that explore more about your experience.
 
 ---
@@ -31,7 +31,7 @@ To use .NET Interactive Notebooks, do the following
 
 After completing the above prerequisties, let's get the notebook.
 
-1. Click <a href="vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/StudentTask/csharpGuide.dib">here</a>. This link will open Visual Studio Code. 
+1. Click <a href="vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/EducatorTask2/showcaseNotebook.ipynb">here</a>. This link will open Visual Studio Code. 
 
 > Visual Studio Code might ask you "Allow an extension to open this URI?" Click "Open."
 
@@ -39,6 +39,6 @@ After completing the above prerequisties, let's get the notebook.
 
 Now you should be able to see the notebook. See image below.
 
-![Opened Notebook](../res/openedstudentnotebook.PNG)
+![Opened Notebook](../res/openededucatornotebook.PNG)
 
 Take your time to go through this notebook!
