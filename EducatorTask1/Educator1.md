@@ -1,7 +1,7 @@
-# .NET Interactive Notebooks for Education UX Study (Study)
+# .NET Interactive Notebooks for Education UX Study (Educator)
 **Objective:** In this study, you will explore the functionality of **.NET Interactive Notebooks** for use in an educational setting. You will also walk through a premade notebook and answer a series of questions as you progress through the study.
 
-# Getting Started
+# Part 1: Getting Started
 ## Screening Questions
 Before you begin, please answer the screening questions provided [here]().
 
@@ -13,23 +13,19 @@ We must configure our system to handle .NET Interactive Notebooks. To do this:
 
 3. Install the .NET Interactive Notebooks extension from the [marketplace](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode&WT.mc_id=-blog-scottha).
 
-4. Download the [Student Notebook](). We will be exploring this notebook later.
+4. Download the [Educator Notebook](). We will be exploring this notebook later.
 
 
 
 
-# Exploring the Notebook
-## Opening the notebook
-After installing all required files, we now want to open up the Student Notebook. 
-1. Launch **Visual Studio Code**. The first page should look like this:
-2. Click "Open folder". Then, navigate to the directory that we created previously. In the File Explorer, select **StudentNotebook.ipynb**, and click "Open".
-3. StudentNotebook.ipynb should now be open, and be displayed as such:
-*image*
+# Part 2: Exploring the Notebook
+## Task #1: Opening the notebook
+After installing all required files, you can now open up the **Educator Notebook**.
 
- 
+Launch Visual Studio Code 
 
 
 
 
-# Closing
+# Part 3: Closing
 ## Follow-up questions
