@@ -31,11 +31,14 @@ To use .NET Interactive Notebooks, do the following
 
 After completing the above prerequisties, let's get the notebook.
 
-1. Click [here](vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/StudentTask/csharpGuide.dib). This link will open Visual Studio Code. 
+1. Copy the following link and paste it into a new browser tab. This link will open Visual Studio Code with the notebook. 
 
-> Visual Studio Code might ask you "Allow an extension to open this URI?" Click "Open."
+> vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/StudentTask/csharpGuide.dib
 
-> Note that opening your first notebook on this machine might take a couple of minutes.
+
+> Note: Visual Studio Code might ask you "Allow an extension to open this URI?" Click "Open."
+
+> Note: Opening your first notebook on this machine might take a couple of minutes.
 
 Now you should be able to see the notebook. See image below.
 
