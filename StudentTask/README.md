@@ -19,7 +19,7 @@ To use .NET Interactive Notebooks, do the following
 
 3. In Visual Studio Code, install the .NET Interactive Notebooks extension. See image below.
 
-![Installing .Net Interactive Notebooks extension](res/installingextension.png)
+![Installing .Net Interactive Notebooks extension](../res/installingextension.PNG)
 
 4. Download the `csharpGuide.dib` above. This is the notebook that you will be going through.
 
@@ -39,6 +39,6 @@ After completing the above prerequisties, let's open the notebook we downloaded.
 
 Now you should be able to see the notebook. See image below.
 
-![Installing .Net Interactive Notebooks extension](res/openedstudentnotebook.png)
+![Installing .Net Interactive Notebooks extension](../res/openedstudentnotebook.PNG)
 
 Take your time to go through this notebook!
