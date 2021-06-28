@@ -1,0 +1,41 @@
+#!markdown
+
+# Guide to using Coding and Markdown cells
+
+Now that you have set up your workspace you can now start using Coding and Mardown cells to fill up your notebook.
+
+#  Markdown
+Markdown is a lightweight markup language for creating formatted text. Lets see some of the things you can do with it!
+
+* Markdown cells display content like this one!
+
+* Double click on a markdown cell to start editing. Double click on this cell to check out the markdown.
+
+* Click the checkmark on the cell tool bar or press Ctrl+Enter to stop editing a markdown cell.
+
+## Basic Syntax
+ To create headings use # before the text. 
+ Like this:
+
+    # Heading 1
+    ## Heading 2
+    ### Heading 3
+
+* If you would like to create bullet points like this one just insert an astritk (*) before your text
+* To make text bold add two asterisk before and after the text. Ex: **This is bold**
+* To make something italizized add one asterick before and after the text. Ex: *This is italicized*
+* For more [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+
+
+
+#  Code cells
+* Code cells contain code that can be run.
+* Hover over code cell to reveal a play button the left side.
+* Click the play button or press Ctrl+Alt+Enter to run a code cell.
+
+
+To learn more, read the docs [here](https://github.com/dotnet/interactive/blob/main/docs/README.md).
+
+To get started type a line of code in the language you selected and run select the run button to see the output.
+
+Once you are comfortable, start transfering a basic computer science lesson into the notebooks.
