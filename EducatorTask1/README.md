@@ -39,7 +39,7 @@ After completing the above prerequisties, let's get a reference notebook. This n
 
 1. Copy the following link and paste it into a new browser tab. This link will open the notebook in **Visual Studio Code**.
 
-> `vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/EducatorTask1/GuideToUsingNotebooks.dib?token=AFPPEIZ6NJIG2RHNPVIPAMLA3JVZW`
+> `vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/EducatorTask1/GuideToUsingNotebooks.dib`
 
 > Note: Visual Studio Code might ask you "Allow an extension to open this URI?" Click "Open."
 
