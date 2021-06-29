@@ -3,9 +3,9 @@
 
 **Task**: 
 
-1. You will answer a set of questions that lets us know more about you. 
+1. You will answer questions that lets us know more about you. 
 2. By following the steps below, you will walk through an interactive notebook designed to introduce you to the C\# programming language.
-3. You will answer a set of questions that explore more about your experience.
+3. You will answer questions that explore more about your experience.
 
 ---
 
@@ -17,7 +17,7 @@ To use .NET Interactive Notebooks, do the following
 
 2. Install the latest [.NET 5 SDK](https://dotnet.microsoft.com/download/dotnet/5.0).
 
-3. In Visual Studio Code, install the .NET Interactive Notebooks extension. See image below.
+3. In Visual Studio Code, install the **.NET Interactive Notebooks** extension. See image below.
 
     3.1 Press `Ctrl+Shift+X` or `Cmd+Shift+X` to show the extensions left panel.
 
@@ -31,7 +31,7 @@ To use .NET Interactive Notebooks, do the following
 
 After completing the above prerequisties, let's get the notebook.
 
-1. Copy the following link and paste it into a new browser tab. This link will open Visual Studio Code with the notebook. 
+1. Copy the following link and paste it into a new browser tab. This link will open the notebook in **Visual Studio Code**. 
 
 > `vscode://ms-dotnettools.dotnet-interactive-vscode/openNotebook?url=https://raw.githubusercontent.com/dotnet-interactive-learning/notebook-tasks/main/StudentTask/csharpGuide.dib`
 
